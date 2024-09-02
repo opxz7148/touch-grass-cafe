@@ -32,11 +32,11 @@
 ## Arabic
 | Name       | Description                 |                        | Price  |
 |:-----------|:----------------------------|------------------------|-------:|
-| Chicken Shawarma wrap | Skewed grill chicken wrap in Pita bread with salad, cheese, pickle and flavorful sauce. Serve with french fried|![Arabic 2](./images/Chicken-Shawarma-8.jpg) | 159 | 
-| Hummus | Chickpea spread with nutty and buttery flavour. Serve with garlic butter pita |![Arabic 2](./images/170209172755-hummus.jpg.webp) | 79 | 
-| Manakeesh | The pizza of Arabic world, Manakeesh is a round bread sprinkled with cheese, chicken, beef and some veggies. | ![Arabic 3](./images/170209174500-manakeesh.jpg.webp) | 259 |
-|  Kofta | Grill ball of minced lamb mix with onion and flavor from spice on a stick | ![Arabic 4](./images/170209172746-kofta.jpg.webp) | 69 |
-| Knafeh | Nabusi cheesecake The blush coloring comes from orange blossom water or rose water. | ![Arabic 4](./images/170209172748-knafeh.jpg.webp) | 59 |
+| Chicken Shawarma wrap | Skewed grill chicken wrap in Pita bread with salad, cheese, pickle and flavorful sauce. Serve with french fried| <img src="./images/Chicken-Shawarma-8.jpg" alt="Chicken Sharwarma" width=200/> | 159 | 
+| Hummus | Chickpea spread with nutty and buttery flavour. Serve with garlic butter pita | <img src="./images/hummus.jpg" alt="Hummus" width=200/> | 79 | 
+| Manakeesh | The pizza of Arabic world, Manakeesh is a round bread sprinkled with cheese, chicken, beef and some veggies. | <img src="./images/manakeesh.jpg" alt="Manakeesh" width=200/> | 259 |
+|  Kofta | Grill ball of minced lamb mix with onion and flavor from spice on a stick | <img src="./images/kofta.jpg" alt="kofta" width=200/> | 69 |
+| Knafeh | Nabusi cheesecake The blush coloring comes from orange blossom water or rose water. | <img src="./images/knafeh.jpg" alt="knafeh" width=200/> | 59 |
 
 ## Beverages
 | Beverage name | Desc | Picture | Price |
