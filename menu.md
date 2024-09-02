@@ -32,16 +32,16 @@
 ## Arabic
 | Name       | Description                 |                        | Price  |
 |:-----------|:----------------------------|------------------------|-------:|
-| **Chicken Shawarma wrap** | Skewed grill chicken wrap in Pita bread with salad, cheese, pickle and flavorful sauce. Serve with french fried|![Arabic 2](./images/Chicken-Shawarma-8.jpg) | **159** | 
-| **Hummus** | Chickpea spread with nutty and buttery flavour. Serve with garlic butter pita |![Arabic 2](./images/170209172755-hummus.jpg.webp) | **79** | 
-| **Manakeesh** | The pizza of Arabic world, Manakeesh is a round bread sprinkled with cheese, chicken, beef and some veggies. | ![Arabic 3](./images/170209174500-manakeesh.jpg.webp) | **259** |
-|  **Kofta** | Grill ball of minced lamb mix with onion and flavor from spice on a stick | ![Arabic 4](./images/170209172746-kofta.jpg.webp) | **69** |
-| **Knafeh** | Nabusi cheesecake The blush coloring comes from orange blossom water or rose water. | ![Arabic 4](./images/170209172748-knafeh.jpg.webp) | **59** |
+| Chicken Shawarma wrap | Skewed grill chicken wrap in Pita bread with salad, cheese, pickle and flavorful sauce. Serve with french fried|![Arabic 2](./images/Chicken-Shawarma-8.jpg) | 159 | 
+| Hummus | Chickpea spread with nutty and buttery flavour. Serve with garlic butter pita |![Arabic 2](./images/170209172755-hummus.jpg.webp) | 79 | 
+| Manakeesh | The pizza of Arabic world, Manakeesh is a round bread sprinkled with cheese, chicken, beef and some veggies. | ![Arabic 3](./images/170209174500-manakeesh.jpg.webp) | 259 |
+|  Kofta | Grill ball of minced lamb mix with onion and flavor from spice on a stick | ![Arabic 4](./images/170209172746-kofta.jpg.webp) | 69 |
+| Knafeh | Nabusi cheesecake The blush coloring comes from orange blossom water or rose water. | ![Arabic 4](./images/170209172748-knafeh.jpg.webp) | 59 |
 
 ## Beverages
 | Beverage name | Desc | Picture | Price |
 |:--------------|------|---------|-------|
 | Fresh Lime Margaritas | a traditional combination of tequila, fresh lime juice and a sweetener. | ![Fresh Lime Margaritas.png](images%2FFresh%20Lime%20Margaritas.png) | 30 |
-| **Laban**    | Soft and refreshing drink base from buttermilk. Seasoned with spices and herb |![Drink](./images/Laban.jpg) | **79** | 
+| Laban    | Soft and refreshing drink base from buttermilk. Seasoned with spices and herb |![Drink](./images/Laban.jpg) | 79 | 
 | Yakult | Yakult is a dairy drink that was originally created in Japan. It is produced using a unique fermentation process which combines lactic acid bacteria and skimmed milk. The good bacteria in Yakult are of the well-known strain called Lactobacillus casei Shirota, discovered by Dr. Minoru Shirota, the founder of Yakult in 1930. The main ingredients in Yakult include water, non-fat milk, sugar, and the L. casei Shirota strain. Yakult contains no fat, gluten, or cholesterol, and it is quite low in calories, with around 43 calories per 65ml bottle. | ![yakult](images/Yakult.png) |     8 |
 | Tej           | Ethiopia's Traditional Beverage, Sometimes called Honey wine | <img src="/images/Ethiopian-Honey-Wine.png" alt="Gomen" width="200" /> | 59         |
