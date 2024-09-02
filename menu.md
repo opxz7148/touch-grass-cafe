@@ -12,5 +12,6 @@
 
 ## Beverages
 
-> A table of beverages. Each team member adds one beverage (one row) to the table.
-> Result should be in alphabetical order by beverage name.
+| Beverage Name | Description                                                  | Image                                                                  | Price(THB) |
+|---------------|--------------------------------------------------------------|------------------------------------------------------------------------|------------|
+| Tej           | Ethiopia's Traditional Beverage, Sometimes called Honey wine | <img src="/images/Ethiopian-Honey-Wine.png" alt="Gomen" width="200" /> | 59         |
