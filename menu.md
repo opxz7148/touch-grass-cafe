@@ -1,8 +1,7 @@
 ## Menu
 
-[First Food Section](#first-food-section) | ... | [Beverages](#beverages)
+[Ethiopian Food](#ethiopian-food) | ... | [Beverages](#beverages)
 
-## First Food Section
 ## Ethiopian Food
 | Food Name | Description                                                                                       | Picture                                                                   | Price(THB) |
 |-----------|---------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|------------|
