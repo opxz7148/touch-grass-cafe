@@ -1,6 +1,6 @@
 ## Menu
 
-[First Food Section](#first-food-section) | ... | [Beverages](#beverages)
+[Chinese Food](#chinese-food) | [Beverages](#beverages)
 
 ## Chinese Food
 |Food|Description|Image|Price (Baht)|
