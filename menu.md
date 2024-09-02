@@ -1,6 +1,15 @@
 ## Menu
 
-[First Food Section](#first-food-section) | [Mexico Food](menu.md#mexico-food) | [German Food](menu.md#German-Food) | [Arabic food](#arabic) | [Beverages](#beverages)
+[Ethiopian Food](#ethiopian-food) | [Mexico Food](menu.md#mexico-food) | [German Food](menu.md#German-Food) | [Arabic food](#arabic) | [Beverages](#beverages)
+
+
+## Ethiopian Food
+| Food Name | Description                                                                                       | Picture                                                                   | Price(THB) |
+|-----------|---------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|------------|
+| Doro Wat  | Red-colored Chicken stew served with Injera                                                       | <img src="/images/Ethiopian-Doro-Wat.png" alt="Doro Wat" width="200" />   | 499        |
+| Beyainatu | Vegetarian dishes, with varies spice served with Injera                                           | <img src="/images/Ethiopian-Beyanetu.png" alt="Beyanetu" width="200" />   | 549        |
+| Gomen     | Vegetarian Dish made from varies of vegetable simmered together                                   | <img src="/images/Ethiopian-Gomen.png" alt="Gomen" width="200" />         | 399        |
+
 
 ## Mexico Food
 | Cuisine                               | Desc                                                                                                                                                                                                             | Picture                                      | Price |
@@ -35,3 +44,4 @@
 | Fresh Lime Margaritas | a traditional combination of tequila, fresh lime juice and a sweetener. | ![Fresh Lime Margaritas.png](images%2FFresh%20Lime%20Margaritas.png) | 30 |
 | **Laban**    | Soft and refreshing drink base from buttermilk. Seasoned with spices and herb |![Drink](./images/Laban.jpg) | **79** | 
 | Yakult | Yakult is a dairy drink that was originally created in Japan. It is produced using a unique fermentation process which combines lactic acid bacteria and skimmed milk. The good bacteria in Yakult are of the well-known strain called Lactobacillus casei Shirota, discovered by Dr. Minoru Shirota, the founder of Yakult in 1930. The main ingredients in Yakult include water, non-fat milk, sugar, and the L. casei Shirota strain. Yakult contains no fat, gluten, or cholesterol, and it is quite low in calories, with around 43 calories per 65ml bottle. | ![yakult](images/Yakult.png) |     8 |
+| Tej           | Ethiopia's Traditional Beverage, Sometimes called Honey wine | <img src="/images/Ethiopian-Honey-Wine.png" alt="Gomen" width="200" /> | 59         |
